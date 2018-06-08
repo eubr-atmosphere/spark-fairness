@@ -35,7 +35,7 @@ spark-shell --conf spark.jars.packages=spark-fairness:spark-fairness:0.1.0-spark
 * `tau`: Define the range of assessment for the metrics.
 
 ### Python (WIP)
-```
+```python
 import ...
 df = spark.read.csv('samples/compas.csv')
 transformer = FairnessEvaluatorTransformer(
