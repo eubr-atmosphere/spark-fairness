@@ -1,5 +1,5 @@
 # Fairness Metric Calculation for Spark
-Calculate fairness metrics using Spark. This implementation is based on (Aequitas) [http://aequitas.dssg.io/] and includes the following metrics:
+Calculate fairness metrics using Spark. This implementation is based on [Aequitas](http://aequitas.dssg.io/) and includes the following metrics:
 
 - Equal Parity
 - Proportional Parity
